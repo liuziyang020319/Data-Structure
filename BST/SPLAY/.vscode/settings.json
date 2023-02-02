@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "cstdlib": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp"
+    }
+}

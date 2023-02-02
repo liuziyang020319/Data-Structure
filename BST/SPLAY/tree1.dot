@@ -1,0 +1,16 @@
+digraph BSTree{
+	10 -> 6;
+	6 -> 5;
+	6 -> 8;
+	8 -> 7;
+	8 -> 9;
+	10 -> 11;
+	11 -> null11[weight=100, style=invis];null11[style=invis];
+	11 -> 13;
+	13 -> null13[weight=100, style=invis];null13[style=invis];
+	13 -> 17;
+	17 -> null17[weight=100, style=invis];null17[style=invis];
+	17 -> 21;
+	21 -> 19;
+	21 -> null21[weight=100, style=invis];null21[style=invis];
+}

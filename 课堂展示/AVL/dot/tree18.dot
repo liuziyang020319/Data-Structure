@@ -1,0 +1,10 @@
+digraph BSTree{
+	size ="10,10";
+	ratio=fill;
+	15 -> 4;
+	4 -> null4[weight=100, style=invis];null4[style=invis];
+	4 -> 12;
+	15 -> 22;
+	22 -> 18;
+	22 -> 24;
+}

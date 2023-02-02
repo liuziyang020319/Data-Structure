@@ -1,0 +1,6 @@
+digraph BSTree{
+	53283 -> 915269;
+	53283 -> null53283[weight=100, style=invis];null53283[style=invis];
+	915269 -> 964673;
+	915269 -> null915269[weight=100, style=invis];null915269[style=invis];
+}

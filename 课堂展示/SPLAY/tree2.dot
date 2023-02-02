@@ -1,0 +1,10 @@
+digraph BSTree{
+	7 -> 6;
+	7 -> null7[weight=100, style=invis];null7[style=invis];
+	6 -> 4;
+	6 -> null6[weight=100, style=invis];null6[style=invis];
+	4 -> 2;
+	2 -> 1;
+	2 -> 3;
+	4 -> 5;
+}
